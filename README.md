@@ -1,3 +1,7 @@
+# App Demo
+
+![image](https://github.com/iBRabbit/react-app/assets/50369069/b6abe164-7f41-4bc1-b16e-1b7595dad854)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
